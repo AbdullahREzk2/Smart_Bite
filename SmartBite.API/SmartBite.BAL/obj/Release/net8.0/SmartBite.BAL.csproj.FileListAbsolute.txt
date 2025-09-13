@@ -1,0 +1,30 @@
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.BAL.deps.json
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.BAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.BAL.pdb
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.csproj.AssemblyReference.cache
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.AssemblyInfoInputs.cache
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.AssemblyInfo.cs
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBit.00335CFC.Up2Date
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\refint\SmartBite.BAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.pdb
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\ref\SmartBite.BAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.BAL.deps.json
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.BAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.BAL.pdb
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.DAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\bin\Release\net8.0\SmartBite.DAL.pdb
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.csproj.AssemblyReference.cache
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.AssemblyInfoInputs.cache
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.AssemblyInfo.cs
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.csproj.CoreCompileInputs.cache
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBit.00335CFC.Up2Date
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\refint\SmartBite.BAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\SmartBite.BAL.pdb
+C:\SmartBite.API\SmartBite.API\SmartBite.BAL\obj\Release\net8.0\ref\SmartBite.BAL.dll

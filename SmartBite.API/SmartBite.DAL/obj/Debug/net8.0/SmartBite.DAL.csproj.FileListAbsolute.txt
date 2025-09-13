@@ -1,0 +1,60 @@
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.deps.json
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.AssemblyReference.cache
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfoInputs.cache
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfo.cs
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\refint\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\ref\SmartBite.DAL.dll
+C:\SmartBite\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.deps.json
+C:\SmartBite\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.dll
+C:\SmartBite\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.pdb
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.AssemblyReference.cache
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfoInputs.cache
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfo.cs
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.CoreCompileInputs.cache
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.dll
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\refint\SmartBite.DAL.dll
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.pdb
+C:\SmartBite\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\ref\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.deps.json
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.AssemblyReference.cache
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfoInputs.cache
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfo.cs
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\refint\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\ref\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.deps.json
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.AssemblyReference.cache
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfoInputs.cache
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfo.cs
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\refint\SmartBite.DAL.dll
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.pdb
+C:\Users\Nour_Allah\Desktop\Gradutaion Projects\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\ref\SmartBite.DAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.deps.json
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\bin\Debug\net8.0\SmartBite.DAL.pdb
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.AssemblyReference.cache
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfoInputs.cache
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.AssemblyInfo.cs
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.csproj.CoreCompileInputs.cache
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\refint\SmartBite.DAL.dll
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\SmartBite.DAL.pdb
+C:\SmartBite.API\SmartBite.API\SmartBite.DAL\obj\Debug\net8.0\ref\SmartBite.DAL.dll

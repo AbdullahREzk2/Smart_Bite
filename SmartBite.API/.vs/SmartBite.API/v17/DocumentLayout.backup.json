@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.api\\smartbite.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|solutionrelative:smartbite.api\\smartbite.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|solutionrelative:smartbite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.bal\\mapping\\limitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|solutionrelative:smartbite.bal\\mapping\\limitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.bal\\mapping\\healthprofiledatamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|solutionrelative:smartbite.bal\\mapping\\healthprofiledatamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.bal\\authantication\\authanticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|solutionrelative:smartbite.bal\\authantication\\authanticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.bal\\healthdatapreparing\\healthprepareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|solutionrelative:smartbite.bal\\healthdatapreparing\\healthprepareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.bal\\foodtransactions\\foodtransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|solutionrelative:smartbite.bal\\foodtransactions\\foodtransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.api\\controllers\\otherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|solutionrelative:smartbite.api\\controllers\\otherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.api\\models\\uploaduserimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297EF6C-F0D3-4518-9424-0888DCAA4323}|SmartBite.API\\SmartBite.API.csproj|solutionrelative:smartbite.api\\models\\uploaduserimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|c:\\users\\nour_allah\\desktop\\smartbite.api\\smartbite.api\\smartbite.bal\\services\\aipredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}|SmartBite.BAL\\SmartBite.BAL.csproj|solutionrelative:smartbite.bal\\services\\aipredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartBite.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\SmartBite.API.csproj",
+              "RelativeDocumentMoniker": "SmartBite.API\\SmartBite.API.csproj",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\SmartBite.API.csproj",
+              "RelativeToolTip": "SmartBite.API\\SmartBite.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T13:08:23.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthPrepareservice.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\HealthDataPreparing\\HealthPrepareservice.cs",
+              "RelativeDocumentMoniker": "SmartBite.BAL\\HealthDataPreparing\\HealthPrepareservice.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\HealthDataPreparing\\HealthPrepareservice.cs",
+              "RelativeToolTip": "SmartBite.BAL\\HealthDataPreparing\\HealthPrepareservice.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:01:08.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodTransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\FoodTransactions\\FoodTransactionManager.cs",
+              "RelativeDocumentMoniker": "SmartBite.BAL\\FoodTransactions\\FoodTransactionManager.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\FoodTransactions\\FoodTransactionManager.cs",
+              "RelativeToolTip": "SmartBite.BAL\\FoodTransactions\\FoodTransactionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:01:04.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthanticationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Authantication\\AuthanticationManager.cs",
+              "RelativeDocumentMoniker": "SmartBite.BAL\\Authantication\\AuthanticationManager.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Authantication\\AuthanticationManager.cs",
+              "RelativeToolTip": "SmartBite.BAL\\Authantication\\AuthanticationManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:00:23.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LimitMap.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Mapping\\LimitMap.cs",
+              "RelativeDocumentMoniker": "SmartBite.BAL\\Mapping\\LimitMap.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Mapping\\LimitMap.cs",
+              "RelativeToolTip": "SmartBite.BAL\\Mapping\\LimitMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:00:09.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OthersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\Controllers\\OthersController.cs",
+              "RelativeDocumentMoniker": "SmartBite.API\\Controllers\\OthersController.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\Controllers\\OthersController.cs",
+              "RelativeToolTip": "SmartBite.API\\Controllers\\OthersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:09:22.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AiPredictionService.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Services\\AiPredictionService.cs",
+              "RelativeDocumentMoniker": "SmartBite.BAL\\Services\\AiPredictionService.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Services\\AiPredictionService.cs",
+              "RelativeToolTip": "SmartBite.BAL\\Services\\AiPredictionService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:02:24.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthProfileDataMap.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Mapping\\HealthProfileDataMap.cs",
+              "RelativeDocumentMoniker": "SmartBite.BAL\\Mapping\\HealthProfileDataMap.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.BAL\\Mapping\\HealthProfileDataMap.cs",
+              "RelativeToolTip": "SmartBite.BAL\\Mapping\\HealthProfileDataMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:00:12.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadUserImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\Models\\UploadUserImageDto.cs",
+              "RelativeDocumentMoniker": "SmartBite.API\\Models\\UploadUserImageDto.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\Models\\UploadUserImageDto.cs",
+              "RelativeToolTip": "SmartBite.API\\Models\\UploadUserImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:58:45.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartBite.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Nour_Allah\\Desktop\\SmartBite.API\\SmartBite.API\\SmartBite.API\\Program.cs",
+              "RelativeToolTip": "SmartBite.API\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:12:43.581Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1534,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

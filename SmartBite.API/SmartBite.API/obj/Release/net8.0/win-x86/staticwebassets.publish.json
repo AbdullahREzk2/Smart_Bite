@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fEOIUoloBXiqM/nC752U0FOhCi8x4cxKv/6uKfZ3JTk=",
+  "Source": "SmartBite.API",
+  "BasePath": "_content/SmartBite.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

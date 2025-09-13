@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SmartBite.API.props" />
+</Project>

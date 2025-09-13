@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBite.API", "SmartBite.API\SmartBite.API.csproj", "{7297EF6C-F0D3-4518-9424-0888DCAA4323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBite.BAL", "SmartBite.BAL\SmartBite.BAL.csproj", "{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBite.DAL", "SmartBite.DAL\SmartBite.DAL.csproj", "{99A784C4-7998-4808-B641-DF6A02B0B595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7297EF6C-F0D3-4518-9424-0888DCAA4323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7297EF6C-F0D3-4518-9424-0888DCAA4323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7297EF6C-F0D3-4518-9424-0888DCAA4323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7297EF6C-F0D3-4518-9424-0888DCAA4323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F361F9B0-507F-4DA2-8865-F921F0CA2E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A784C4-7998-4808-B641-DF6A02B0B595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A784C4-7998-4808-B641-DF6A02B0B595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A784C4-7998-4808-B641-DF6A02B0B595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A784C4-7998-4808-B641-DF6A02B0B595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
