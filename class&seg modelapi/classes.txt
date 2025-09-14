@@ -1,0 +1,40 @@
+Avocado 1
+Beetroot 1
+Cabbage white 1
+Carrot 1
+Cheddar_cheese
+Clementine 1
+Corn 1
+Cucumber 1
+Dates 1
+Eggplant 1
+Green Apple
+Orange 1
+Pear 1
+Red Apple
+bechamel
+brown roll
+chese_cake
+diced potato bbq
+falafel
+fish w viggy
+fish_and_chips
+foul
+fried_fish
+green peas
+grilled chops
+grilled_chicken
+grilled_shrimp
+kofta
+meatball
+red sause
+rice
+salmon
+shish tawook
+steak
+strawberry
+tandoori_chicken
+white beans
+white roll
+white sause
+white_cheese
